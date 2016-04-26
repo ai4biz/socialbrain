@@ -1,6 +1,6 @@
 # Social Brain
 
-Social Brain is an open source project created to help organize and improve social intelligence.
+Social Brain is an open source project created to help organize to improve social intelligence.
 
 Features:
 * Collect Tweets;
